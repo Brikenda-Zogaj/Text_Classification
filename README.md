@@ -29,5 +29,5 @@ main.ipynb
 - `main.ipynb`
 - `requirements.txt`
 - `train.csv`
-## The dataset is not included in the repository due to size restrictions. Download it from this link [train.csv](https://www.geeksforgeeks.org/nlp/best-nlp-datasets/)
+## The dataset is not included in the repository due to size restrictions. Download it from this link [AG News Corpus](https://www.geeksforgeeks.org/nlp/best-nlp-datasets/)
 
