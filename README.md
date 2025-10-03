@@ -28,5 +28,6 @@ main.ipynb
 ## Files Included
 - `main.ipynb`
 - `requirements.txt`
-- `train.csv` [train.csv](https://www.geeksforgeeks.org/nlp/best-nlp-datasets/)
+- `train.csv`
+## The dataset is not included in the repository due to size restrictions. Download it from this link [train.csv](https://www.geeksforgeeks.org/nlp/best-nlp-datasets/)
 
